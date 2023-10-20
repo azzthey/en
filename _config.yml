@@ -25,7 +25,7 @@ sass:
   sass_dir: css
   style:    compressed
 
-baseurl: ""
+baseurl: "/en/"
 permalink: pretty
 #timezone: America/New_York
 future: false
